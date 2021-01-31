@@ -13,9 +13,9 @@ python run_tests.py
 
 <img src="https://github.com/JustinSkaggs/hello-world/blob/main/Simple.png/">
  
-<img src="blob/main/Split.png/">
+<img src="Split.png/">
 
-<img src="blob/main/Xor.png">
+<img src="Xor.png">
 
  
 
