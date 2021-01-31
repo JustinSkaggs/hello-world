@@ -6,18 +6,15 @@
 
 * Overview: https://minitorch.github.io/module0.html
 
-![Simple Dataset](/images/Simple.png?raw=true)
-![Simple Dataset](images/Simple.png?raw=true)
-![Simple Dataset](images/Simple.png)
 * Tests:
 
 ```
+
 python run_tests.py
+
 ```
-<img src="https://github.com/JustinSkaggs/hello-world/blob/main/Simple.png">
+<img src="images//Simple.png">
  
-<img src="Split.png/">
+<img src="images/Split.png/">
 
-<img src="Xor.png">
-
-![alt text](https://github.com/JustinSkaggs/hello-world/blob/main/Simple.png?raw=true)
+<img src="images/Xor.png">
