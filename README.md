@@ -11,11 +11,11 @@
 ```
 python run_tests.py
 
-![Simple Dataset](https://github.com/JustinSkaggs/hello-world/blob/main/Simple.png)
+![Simple Dataset](https://github.com/JustinSkaggs/hello-world/blob/main/Simple.png?raw=true)
  
-![Split Dataset](https://github.com/JustinSkaggs/hello-world/blob/main/Split.png)
+![Split Dataset](https://github.com/JustinSkaggs/hello-world/blob/main/Split.png?raw=true)
 
-![Xor Dataset](https://github.com/JustinSkaggs/hello-world/blob/main/Xor.png) 
+![Xor Dataset](https://github.com/JustinSkaggs/hello-world/blob/main/Xor.png?raw=true) 
 
  
 
