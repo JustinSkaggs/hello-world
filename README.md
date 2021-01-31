@@ -15,6 +15,8 @@ python run_tests.py
 ```
 <img src="images//Simple.png">
  
+
 <img src="images/Split.png/">
+
 
 <img src="images/Xor.png">
