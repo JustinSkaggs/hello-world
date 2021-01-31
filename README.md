@@ -11,11 +11,11 @@
 ```
 python run_tests.py
 
-![img.png](Simple.png)
+![img.png](https://github.com/JustinSkaggs/hello-world/Simple.png)
  
-![img.png](Split.png)
+![img.png](https://github.com/JustinSkaggs/hello-world/Split.png)
 
-![img.png](Xor.png) 
+![img.png](https://github.com/JustinSkaggs/hello-world/Xor.png) 
 
  
 
